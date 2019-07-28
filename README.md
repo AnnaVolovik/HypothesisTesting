@@ -1,6 +1,6 @@
 # HypothesisTesting
 
-Demonstrating the ability to acquire, manipluate, clean and run basic data analysis.
+Demonstrating ability to acquire, manipulate, clean and run basic data analysis using pandas.
 
 Providing evidence for (or against) a given hypothesis as part of "Introduction to Data Science in Python" 
 Coursera course by University of Michigan.
